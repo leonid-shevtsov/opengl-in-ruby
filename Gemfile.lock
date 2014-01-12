@@ -1,0 +1,16 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    devil (0.1.9.5)
+    mkrf (0.2.3)
+    rake (10.1.1)
+    ruby-opengl2 (0.60.6)
+      mkrf (>= 0.2.3)
+      rake (>= 10.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  devil
+  ruby-opengl2
